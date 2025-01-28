@@ -50,13 +50,13 @@ lib/
 
 ## 📷 **Tangkapan Layar**
 ### **🏠 Halaman Home**
-![Home Page](assets/screenshots/home.png)
+![Home Page](assets/images/home.png)
 
 ### **➕ Menambah Transaksi**
-![Add Transaction](assets/screenshots/add_transaction.png)
+![Add Transaction](assets/images/add_transaction.png)
 
 ### **🔍 Pencarian Transaksi**
-![Search Transaction](assets/screenshots/search_transaction.png)
+![Search Transaction](assets/iamges/search_transaction.png)
 
 ## 📝 **Catatan Pengembangan**
 - Saat login pertama kali, navbar mungkin tidak muncul. **Tutup dan buka kembali aplikasi** untuk melihat navbar muncul.
