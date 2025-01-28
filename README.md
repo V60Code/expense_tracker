@@ -54,7 +54,7 @@ lib/
 ![Add Transaction](assets/images/add_transaction.png)
 
 ### **🔍 Pencarian Transaksi**
-![Search Transaction](assets/iamges/search_transaction.png)
+![Search Transaction](assets/images/search_transaction.png)
 
 ## 📝 **Catatan Pengembangan**
 - Saat login pertama kali, navbar mungkin tidak muncul. **Tutup dan buka kembali aplikasi** untuk melihat navbar muncul.
