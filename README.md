@@ -1,4 +1,3 @@
-=======
 # Expense Tracker
 
 Expense Tracker adalah aplikasi manajemen keuangan yang membantu pengguna mencatat pendapatan dan pengeluaran mereka. Aplikasi ini dibangun menggunakan **Flutter** dan menyimpan data transaksi menggunakan **Shared Preferences**.
